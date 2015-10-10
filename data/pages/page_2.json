@@ -1,0 +1,27 @@
+{
+  "page": "2",
+  "has_next": "true",
+  "content": [
+    {
+      "id": "1",
+      "type": "music",
+      "genre": "britpop",
+      "page_url": "sample_url",
+      "name": "Blur - The Universal"
+    },
+    {
+      "id": "2",
+      "type": "music",
+      "genre": "rock",
+      "page_url": "sample_url",
+      "name": "The Verve - Rolling People"
+    },
+    {
+      "id": "3",
+      "type": "movie",
+      "category": "трейлер",
+      "page_url": "sample_url",
+      "name": "Марсианин / The Martian"
+    }
+  ]
+}

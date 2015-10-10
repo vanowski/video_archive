@@ -1,0 +1,27 @@
+{
+  "page": "1",
+  "has_next": "true",
+  "content": [
+    {
+      "id": "1",
+      "type": "movie",
+      "category": "трейлер",
+      "page_url": "sample_url",
+      "name": "Железный Человек 3 / Iron Man 3"
+    },
+    {
+      "id": "2",
+      "type": "music",
+      "genre": "rock",
+      "page_url": "sample_url",
+      "name": "Limp Bizkit ­ Behind Blue Eyes"
+    },
+    {
+      "id": "3",
+      "type": "movie",
+      "category": "трейлер",
+      "page_url": "sample_url",
+      "name": "Интерстеллар / Interstellar"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "page": "3",
+  "has_next": "false",
+  "content": [
+    {
+      "id": "1",
+      "type": "movie",
+      "category": "трейлер",
+      "page_url": "sample_url",
+      "name": "Шерлок Холмс / Sherlock Holmes"
+    },
+    {
+      "id": "2",
+      "type": "music",
+      "genre": "rock",
+      "page_url": "sample_url",
+      "name": "Kasabian - Club Foot"
+    },
+    {
+      "id": "3",
+      "type": "movie",
+      "category": "трейлер",
+      "page_url": "sample_url",
+      "name": "Она / Her"
+    }
+  ]
+}

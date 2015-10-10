@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Test Job</title>
+        <meta charset="UTF-8"/>
+        <link rel="stylesheet" href="style.css"/>
+    </head>
+    <body>
+        <main>
+            <h1>Трейлеры и клипы</h1>
+            <section id="feed" class="feed">
+            </section>
+            <button type="button" class="fetch-button" id="fetch">Загрузить еще</button>
+        </main>
+        <script type="x-tmpl-mustache" id="item-movie-template">
+            <div class="item item_music">
+                <div class="item__caption">{{name}}</div>
+                <div class="item__details">{{category}}</div>
+            </div>
+        </script>
+        <script type="x-tmpl-mustache" id="item-music-template">
+            <div class="item item_movie">
+                <div class="item__caption">{{name}}</div>
+                <div class="item__details">{{genre}}</div>
+            </div>
+        </script>
+        <script src="lib/jquery.min.js"></script>
+        <script src="lib/underscore-min.js"></script>
+        <script src="lib/backbone-min.js"></script>
+        <script src="js/Model.js"></script>
+        <script src="js/MainView.js"></script>
+        <script src="js/main.js"></script>
+    </body>
+</html>

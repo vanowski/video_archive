@@ -1,0 +1,54 @@
+html, body {
+    padding: 0;
+    margin: 0;
+}
+
+.hidden {
+    display: none;
+    visibility: hidden;
+}
+
+body {
+    font-family: Verdana, Arial, sans-serif;
+}
+
+main {
+    padding: 20px;
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: 200;
+}
+
+.fetch-button {
+    font-size: 12px;
+    background: none;
+    height: 30px;
+    padding: 5px 10px;
+    border: 1px dotted gray;
+    border-radius: 3px;
+    cursor: pointer;
+    width: 100%;
+}
+
+.item {
+    padding: 10px 20px;
+    margin-bottom: 10px;
+    border-radius: 6px;
+}
+    .item_music {
+        background: #ceb;
+    }
+    .item_movie {
+        background: #eef;
+    }
+    .item__details {
+        display: inline-block;
+        float: right;
+        font-size: 10px;
+    }
+    .item__caption {
+        display: inline-block;
+        font-size: 14px;
+    }
