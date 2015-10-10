@@ -9,4 +9,4 @@ gulp
 ```
 Go to `localhost:3000` or `localhost:9000` to check out the app.
 
-Best viewed in latest Chrome — done in ES6 & therefore not intended to be awesome in non-modern browsers.
+Best viewed in latest Chrome — done in ES6, not Babelified & therefore is not expected to be awesome in non-modern browsers.
